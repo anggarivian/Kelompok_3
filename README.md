@@ -1,5 +1,7 @@
 # Kelompok_3
 
+Nama Remote "Kelompok3" aja 
+
 Tugas Lintang
   - Isi Biodata di Table lanjut Commit 2
   - Ubah Font Family lanjut Commit 3
