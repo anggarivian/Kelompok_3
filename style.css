@@ -1,16 +1,16 @@
 .nav {
-    position:fixed;
-    width:100%;
-    z-index:1;
+    position: fixed;
+    width: 100%;
+    z-index: 1;
 }
 
 .bar {
-    text-align:center;
-    color:rgb(21, 190, 242);
-    background-color:#fff;
-    letter-spacing:5px;
-    padding:8px 8px;
-    box-shadow:0 2px 5px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12);
+    text-align: center;
+    color: rgb(21, 190, 242);
+    background-color: #fff;
+    letter-spacing: 5px;
+    padding: 8px 8px;
+    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
 }
 
 .center {
@@ -19,10 +19,34 @@
     text-align: center;
 }
 
-body{
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;   
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 table {
-    font-size: 28px;
+    font-size: 18px;
+}
+
+#tab {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+#tab td,
+#tab th {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+#tab tr:hover {
+    background-color: #ddd;
+}
+
+#tab th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #04AA6D;
+    color: white;
 }
