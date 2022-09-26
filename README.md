@@ -6,4 +6,4 @@ Tugas Lintang
  
 Tugas Teh Nisha
   - Isi Biodata di Table lanjut Commit 4
-  - Style di index dibikin external jadi buat file style.css baru
+  - Style di index dibikin external jadi buat file style.css baru Commit 5
